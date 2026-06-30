@@ -1,0 +1,430 @@
+[
+  {
+    "overall_confidence": 0.9,
+    "candidate_id": "871617d5",
+    "full_name": {
+      "value": "Jane Doe",
+      "confidence": 0.9
+    },
+    "emails": [
+      "jane.doe@email.com"
+    ],
+    "phone": "+15550199111",
+    "location": {
+      "city": "San Jose",
+      "region": "CA",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": {
+      "value": "Senior Software Engineer at Google LLC",
+      "confidence": 0.9
+    },
+    "years_experience": 4,
+    "skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "Node.js",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Google LLC",
+        "title": "Senior Software Engineer",
+        "start": "2022-01",
+        "end": "YYYY-MM",
+        "summary": "Extracted current job profile"
+      }
+    ],
+    "education": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "phones[0]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[Node.js]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[Java]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "phones[1]",
+        "source": "recruiter_notes",
+        "method": "Regex Entity Extraction"
+      },
+      {
+        "field": "skills[C++]",
+        "source": "recruiter_notes",
+        "method": "Regex Entity Extraction"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "recruiter_notes",
+        "method": "Regex Entity Extraction"
+      }
+    ]
+  },
+  {
+    "overall_confidence": 0.9,
+    "candidate_id": "aa0263bc",
+    "full_name": {
+      "value": "Robert Downey",
+      "confidence": 0.9
+    },
+    "emails": [
+      "rdowney@stark.com"
+    ],
+    "phone": "+18005550144",
+    "location": {
+      "city": "San Jose",
+      "region": "CA",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": {
+      "value": "Systems Automation Lead at Stark Industries",
+      "confidence": 0.9
+    },
+    "years_experience": 4,
+    "skills": [
+      "C++",
+      "Python",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Stark Industries",
+        "title": "Systems Automation Lead",
+        "start": "2022-01",
+        "end": "YYYY-MM",
+        "summary": "Extracted current job profile"
+      }
+    ],
+    "education": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "phones[0]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[C++]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "ats_json",
+        "method": "ATS JSON Schema Mapping"
+      }
+    ]
+  },
+  {
+    "overall_confidence": 0.9,
+    "candidate_id": "1c4fbab1",
+    "full_name": {
+      "value": "John Smith",
+      "confidence": 0.9
+    },
+    "emails": [
+      "jsmith@cloud.com"
+    ],
+    "phone": null,
+    "location": {
+      "city": "San Jose",
+      "region": "CA",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "years_experience": null,
+    "skills": null,
+    "experience": null,
+    "education": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "Direct CSV Column Extraction"
+      }
+    ]
+  },
+  {
+    "overall_confidence": 0.9,
+    "candidate_id": "0e91724c",
+    "full_name": {
+      "value": "Alex Miller",
+      "confidence": 0.9
+    },
+    "emails": [
+      "alex.miller@tech.io"
+    ],
+    "phone": "+11234567890",
+    "location": {
+      "city": "San Jose",
+      "region": "CA",
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": {
+      "value": "Data Scientist at Meta",
+      "confidence": 0.9
+    },
+    "years_experience": 4,
+    "skills": [
+      "Python",
+      "Docker",
+      "AWS",
+      "SQL",
+      "Java",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Data Scientist",
+        "start": "2022-01",
+        "end": "YYYY-MM",
+        "summary": "Extracted current job profile"
+      }
+    ],
+    "education": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "Direct CSV Column Extraction"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "Direct CSV Column Extraction"
+      },
+      {
+        "field": "phones[0]",
+        "source": "recruiter_csv",
+        "method": "Direct CSV Column Extraction"
+      },
+      {
+        "field": "phones[1]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[Java]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[Node.js]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      }
+    ]
+  },
+  {
+    "overall_confidence": 0.9,
+    "candidate_id": "162bb0c8",
+    "full_name": {
+      "value": "Sarah Connor",
+      "confidence": 0.9
+    },
+    "emails": [
+      "sconnor@cyber.com"
+    ],
+    "phone": "+19998887777",
+    "location": {
+      "city": null,
+      "region": null,
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": {
+      "value": "Security Analyst at Cyberdyne",
+      "confidence": 0.9
+    },
+    "years_experience": 4,
+    "skills": null,
+    "experience": [
+      {
+        "company": "Cyberdyne",
+        "title": "Security Analyst",
+        "start": "2022-01",
+        "end": "YYYY-MM",
+        "summary": "Extracted current job profile"
+      }
+    ],
+    "education": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "Direct CSV Column Extraction"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "Direct CSV Column Extraction"
+      },
+      {
+        "field": "phones[0]",
+        "source": "recruiter_csv",
+        "method": "Direct CSV Column Extraction"
+      }
+    ]
+  },
+  {
+    "overall_confidence": 0.0,
+    "candidate_id": "781b96d7",
+    "full_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "emails": [
+      "david.wright@email.com"
+    ],
+    "phone": "+14443332222",
+    "location": {
+      "city": null,
+      "region": null,
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "years_experience": null,
+    "skills": [
+      "Docker",
+      "Java",
+      "C++"
+    ],
+    "experience": null,
+    "education": null,
+    "provenance": [
+      {
+        "field": "phones[0]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[Java]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      },
+      {
+        "field": "skills[C++]",
+        "source": "resume_pdf",
+        "method": "PDF Text-Stream Tokenization"
+      }
+    ]
+  }
+]
