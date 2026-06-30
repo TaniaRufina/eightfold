@@ -21,6 +21,7 @@ D:\eightfold-transformer\
 │   └── recruiter_notes.txt     # Sample unstructured conversational field notes
 ├── main.py                     # Primary pipeline execution engine (Headless CLI)
 ├── app.py                      # Interactive Streamlit Web UI dashboard (Presentation layer)
+├── output.json                 # <--- ADD THIS LINE: Final produced output payload
 └── requirements.txt            # Project system dependencies list
 
 ---
