@@ -1,0 +1,3 @@
+Met with Jane Q. Doe. Her email is jane.doe@email.com. She is fluent in Python and Docker.
+
+Had a call with S. Connor (sconnor@cyber.com). She is currently moving away from her role as Security Architect at Skynet. She wants to focus heavily on Node.js, AWS, and SQL.
