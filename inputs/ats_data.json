@@ -1,0 +1,20 @@
+[
+  {
+    "candidate_name": "Jane Doe",
+    "contact_email": "jane.doe@email.com",
+    "cell_phone": "+15550199111",
+    "role_title": "Senior Software Engineer",
+    "organization": "Google LLC",
+    "geo_location": "San Jose, CA, US",
+    "tagged_skills": ["Python", "AWS", "Docker", "Node.js", "Java"]
+  },
+  {
+    "candidate_name": "Robert Downey",
+    "contact_email": "rdowney@stark.com",
+    "cell_phone": "18005550144",
+    "role_title": "Systems Automation Lead",
+    "organization": "Stark Industries",
+    "geo_location": "Los Angeles, CA, US",
+    "tagged_skills": ["C++", "Python", "SQL"]
+  }
+]

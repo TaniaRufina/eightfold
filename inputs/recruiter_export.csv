@@ -1,5 +1,5 @@
-name,email,phone,current_company,title
-Jane Doe,jane.doe@email.com,+1-555-0199,Google,Software Engineer
-John Smith,jsmith@cloud.com,,Microsoft,Product Manager
-Alex Miller,alex.miller@tech.io,123-456-7890,Netflix,Data Engineer
-Sarah Connor,sconnor@cyber.com,+1 999 888 7777,Skynet,Security Architect
+name,email,phone,current_company,title,location
+Jane Doe,jane.doe@email.com,(555) 019-9111,Google,Software Engineer,"San Jose, CA"
+John Smith,jsmith@cloud.com,,,Cloud Architect,"Seattle, WA"
+Alex Miller,alex.miller@tech.io,+11234567890,Meta,Data Scientist,"New York, NY"
+Sarah Connor,sconnor@cyber.com,+1 999-888-7777,Cyberdyne,Security Analyst,

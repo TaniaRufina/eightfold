@@ -1,3 +1,19 @@
-Met with Jane Q. Doe. Her email is jane.doe@email.com. She is fluent in Python and Docker.
+========================================================================
+RECRUITER ROUGH INTERVIEW FIELD NOTES
+========================================================================
 
-Had a call with S. Connor (sconnor@cyber.com). She is currently moving away from her role as Security Architect at Skynet. She wants to focus heavily on Node.js, AWS, and SQL.
+ENTRY 1: Follow up with Jane Q. Doe (jane.doe@email.com). She mentioned 
+strong technical depth using Python, AWS, Docker, and Node.js. Her 
+LinkedIn profile is linkedin.com/in/janedoe. 
+
+ENTRY 2: Spoke with John Smith (jsmith@cloud.com). He doesn't have a 
+phone number listed on file yet. Core background seems to lean heavily 
+towards Java, AWS, and Cloud Architecture.
+
+ENTRY 3: New profile intake - David Wright (david.wright@email.com). 
+He is based out of Austin, Texas. He spent 4 years working as a 
+Backend Engineer. Core tools: Java, SQL, Docker, and C++. Reach him at 
++1-444-333-2222. Portfolio link: github.com/dwright.
+
+ENTRY 4: Sarah Connor (sconnor@cyber.com) called back. She has heavy 
+experience with Linux systems, Python, and SQL databases.
